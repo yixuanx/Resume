@@ -66,7 +66,7 @@
 * Responsibe:
   * Developed self-service query platform to support user ad-hoc queries;
   * provided refined risk data for user analysis;
-  * Utilized concurrency, queues, and caching to improve system processing capacity.
+  * Utilized concurrency, caching, and queues to improve system processing capacity.
 * Achievements:
   * Support user ad-hoc queries, reduced user waiting time for query responses, and accelerated users daily review process.
 
