@@ -81,7 +81,9 @@
 ### Order management web platform for OCI [Oracle]
 * Tech stack: java, redis, oracle, html, js, spring
 * Responsible:
-  * Developed order deployment pipeline and web platfrom for users to submit, check for progress, and perform actions.
+  * Developed order deployment pipeline
+  * and web platfrom
+  * for users to submit, check for progress, and perform actions.
 * Achievements:
   * Realized order automated deployment, provided user self-service interface, and accelerated speed of dev and testing.
 
