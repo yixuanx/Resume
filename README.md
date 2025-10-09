@@ -39,8 +39,8 @@
 
 * Tech stack: nodejs, onnx, pytorch, redis, postgresql, svelte, electron
 * Description:
- * eCommerce web platform MVP with typical recommending,
- * and ordering placement modules.
+  * eCommerce web platform MVP with typical recommending,
+  * and ordering placement modules.
 
 
 ### Markets risk data processing with big data [Citi]
