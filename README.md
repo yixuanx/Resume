@@ -49,8 +49,7 @@
   * Led team to develop the market risk system with big data tech,
   * as the big data platform served for centralized user queries.
 * Achievements:
-  * Enhanced data processing scalability by the big data tech, improved system fault tolerance & recovery capabilities,
-  * and realized long-term system expansion for growing data volume and increasingly granular data.
+  * Enhanced data processing scalability with the big data tech, improved system fault tolerance & recovery capabilities.
 
 ### Markets risk data processing with java concurrent for physical server [Citi]
 * Tech stack: java, redis, oracle, spring
