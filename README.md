@@ -4,7 +4,7 @@
 * Email: yixuanxu_0_0@outlook.com
 
 
-* Be experieneced in enterprise systems development for saas, big data, java, nodejs, pytorch, react/svelte/electron, postgresql/oracle, redis.
+* Be experieneced in enterprise systems development for saas, big data, java, nodejs, pytorch, react/svelte, electron, postgresql/oracle, redis.
 * Have practical experiences to lead teams for projects develement, test, and delivery, with teams size up to 70+; Able to communicate with users fluently.
 
 
