@@ -1,7 +1,7 @@
 ## Executive Summary:
-* Name: ***
-* Tel: ***
-* Email: ***
+* Name: XU Yixuan
+* Tel: +86 181 0189 3525
+* Email: yixuanxu_0_0@outlook.com
 
 
 * Be experieneced in enterprise systems development for saas, big data, java, nodejs, pytorch, react/svelte/electron, postgresql/oracle, redis.
@@ -9,15 +9,15 @@
 
 
 # Working Experinces:
-* 2019/09 ~ 2025/09: ***, SVP & Architect, Work for markets risk systems dev
-* 2012/08 ~ 2019/05: ***, Dev manager &Principle software engineer, Work for ordering deployment systems dev for OCI
-* 2010/06 ~ 2012/04: ***, Senior software engineer, Work for carbon saas systems dev, as the company is a carbon mitigation SaaS service provider for customers.
-* 2007/04 ~ 2010/05: ***, Software engineer, Work for ITSM system dev
+* 2019/09 ~ 2025/09: Citi, SVP & Architect, Work for markets risk systems dev
+* 2012/08 ~ 2019/05: Oracle, Dev manager &Principle software engineer, Work for ordering deployment systems dev for OCI
+* 2010/06 ~ 2012/04: C3, Senior software engineer, Work for carbon saas systems dev, as the company is a carbon mitigation SaaS service provider for customers.
+* 2007/04 ~ 2010/05: Hitachi, Software engineer, Work for ITSM system dev
 
 # Educations:
-* 2004/09 ~ 2007/04: ***, Master of Science in Computer Science
-* 2000/09 ~ 2004/07: ***, Bachelor of Science in Electronic Information Science
-* 2018    ~ 2019   : ***, Deep Learning Certificate
+* 2004/09 ~ 2007/04: Shanghai Jiao Tong University, Master of Science in Computer Science
+* 2000/09 ~ 2004/07: Nanjing University of Posts and Telecommunications, Bachelor of Science in Electronic Information Science
+* 2018    ~ 2019   : Coursera, Deep Learning Certificate
 
 
 # Projects:
