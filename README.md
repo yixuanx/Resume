@@ -56,7 +56,7 @@
 * Responsibe:
   * Conducted in-depth analysis of market risk data, processes and rules;
   * analyzed millions of logs, classified and isolated risk data, then processed them pipelines;
-  * Utilized concurrency and Map/Reduce methods to improve processing speed.
+  * Utilized concurrency to improve processing speed.
 * Achievements:
   * Increased processing data volume from millions to billions, and reduced user waiting time from hours to minutes.
 
