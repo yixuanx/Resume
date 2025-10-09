@@ -4,8 +4,14 @@
 * Email: yixuanxu_0_0@outlook.com
 
 
-* Be experieneced in enterprise systems development for saas, big data, java, nodejs, pytorch, react/svelte, electron, postgresql/oracle, redis.
-* Have practical experiences to lead teams for projects develement, test, and delivery, with teams size up to 70+; Able to communicate with users fluently by English.
+* Be experieneced in enterprise systems development for
+  * saas, big data, java,
+  * nodejs, react/svelte, electron, pytorch,
+  * postgresql/oracle, redis.
+* Have practical experiences to lead teams for
+  * projects develement, test, and delivery,
+  * with teams size up to 70+;
+  * Able to communicate with users fluently by English.
 
 
 # Working Experinces:
@@ -37,38 +43,67 @@
 
 ### Markets risk data processing with big data [Citi]
 * Tech stack: java, redis, oracle, spark, spring
-* Responsibe: Led team to develop the market risk system with big data tech, as the big data platform served for centralized user queries.
-* Achievements: Enhanced data processing scalability by the big data tech, improved system fault tolerance & recovery capabilities, and realized long-term system expansion for growing data volume and increasingly granular data.
+* Responsibe:
+  * Led team to develop the market risk system with big data tech, as the big data platform served for centralized user queries.
+* Achievements:
+  * Enhanced data processing scalability by the big data tech,
+  * improved system fault tolerance & recovery capabilities,
+  * and realized long-term system expansion for growing data volume and increasingly granular data.
 
 ### Markets risk data processing with java concurrent for physical server [Citi]
 * Tech stack: java, redis, oracle, spring
-* Responsibe: Conducted in-depth analysis of market risk data, processes and rules; analyzed millions of logs, classified and isolated risk data, then processed them pipelines; Utilized concurrency and Map/Reduce methods to improve processing speed.
-* Achievements: Increased processing data volume from millions to billions, and reduced user waiting time from hours to minutes.
+* Responsibe:
+  * Conducted in-depth analysis of market risk data, processes and rules;
+  * analyzed millions of logs, classified and isolated risk data, then processed them pipelines;
+  * Utilized concurrency and Map/Reduce methods to improve processing speed.
+* Achievements:
+  * Increased processing data volume from millions to billions,
+  * and reduced user waiting time from hours to minutes.
 
 
 ### Markets risk data analyzer web platform [Citi]
 * Tech stack: java, redis, oracle, html, react/svelte, spring
-* Responsibe: Developed self-service query platform to support user ad-hoc queries; provided refined risk data for user analysis; Utilized concurrency, queues, and caching to improve system processing capacity.
-* Achievements: Support user ad-hoc queries, reduced user waiting time for query responses, and accelerated users' daily review process.
+* Responsibe:
+  * Developed self-service query platform to support user ad-hoc queries;
+  * provided refined risk data for user analysis;
+  * Utilized concurrency, queues, and caching to improve system processing capacity.
+* Achievements:
+  * Support user ad-hoc queries,
+  * reduced user waiting time for query responses,
+  * and accelerated users daily review process.
 
 ### Order deployment system for OCI [Oracle]
 * Tech stack: java, redis, oracle, spring
-* Responsible: Develop and integrate order deployment system. As order is triggered from UI, it was then assigned by the tenant allocation system, then it was sent to order deployment api to deploy on server environment based on preset images. Order is tracked with ID for checking, retry or cancellation.
+* Responsible:
+  * Develop and integrate order deployment system.
+  * As order is triggered from UI, it was then assigned by the tenant allocation system,
+  * then it was sent to order deployment api to deploy on server environment based on preset images.
+  * Order is tracked with ID for checking, retry or cancellation.
 
 ### Order management web platform for OCI [Oracle]
 * Tech stack: java, redis, oracle, html, js, spring
-* Responsible: Developed order deployment pipeline and web platfrom for users to submit, check for progress, and perform actions.
-* Achievements: Realized order automated deployment, provided user self-service interface, and accelerated speed of dev and testing.
+* Responsible:
+  * Developed order deployment pipeline and web platfrom for users to submit, check for progress, and perform actions.
+* Achievements:
+  * Realized order automated deployment,
+  * provided user self-service interface,
+  * and accelerated speed of dev and testing.
 
 ### Carbon saas web platform [C3]
 * Tech stack: java, redis, oracle, html, js, spring
-* Responsible: Development of business functions,  performance optimize on backend, provided APIs for UI integration as well.
+* Responsible:
+  * Development of business functions,
+  * performance optimize on backend,
+  * provided APIs for UI integration as well.
 
 ### Carbon saas BI system [C3]
 * Tech stack: java, redis, oracle, html, js, spring
-* Responsible: Development for BI system ETL, performing generation, calculation, transformation, and aggregation for BI cube; provided APIs for UI integration as well.
+* Responsible:
+  * Development for BI system ETL,
+  * performing generation, calculation, transformation, and aggregation for BI cube;
+  * provided APIs for UI integration as well.
 
 
-Github io page: https://yixuanx.github.io/Resume/
+Github.io Page: https://yixuanx.github.io/Resume/
 
 ---END---
