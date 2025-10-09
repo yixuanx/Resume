@@ -68,4 +68,6 @@
 * Tech stack: java, redis, oracle, html, js, spring
 * Responsible: Development for BI system ETL, performing generation, calculation, transformation, and aggregation for BI cube; provided APIs for UI integration as well.
 
+
+Github io page: https://yixuanx.github.io/resume/
 ---END---
