@@ -5,13 +5,11 @@
 
 
 * Be experieneced in enterprise systems development for
-  * saas, big data, java,
-  * nodejs, react/svelte, electron, pytorch,
+  * saas, big data, java, nodejs, react/svelte, electron, pytorch,
   * postgresql/oracle, redis.
 * Have practical experiences to lead teams for
   * projects develement, test, and delivery,
-  * with teams size up to 70+;
-  * Able to communicate with users fluently by English.
+  * with teams size up to 70+; Able to communicate with users fluently by English.
 
 
 # Working Experinces:
@@ -32,22 +30,26 @@
 <img alt="image" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
 
 * Tech stack: nodejs, onnx, pytorch, redis, postgresql, svelte, electron
-* Description: Markets risk analyzer with prection for LSTM, VAR, ES, provide predictions for users daily review on investments.
+* Description:
+ * Markets risk analyzer with prection for LSTM, VAR, ES,
+ * provide predictions for users daily review on investments.
 
 ### eCommerce web platform (with Recommending) [Github open source]
 <img alt="image" src="https://github.com/user-attachments/assets/0c803cd1-3d5c-40fe-b2d6-69625de64e2d" />
 
 * Tech stack: nodejs, onnx, pytorch, redis, postgresql, svelte, electron
-* Description: eCommerce web platform MVP with typical recommending, and ordering placement modules.
+* Description:
+ * eCommerce web platform MVP with typical recommending,
+ * and ordering placement modules.
 
 
 ### Markets risk data processing with big data [Citi]
 * Tech stack: java, redis, oracle, spark, spring
 * Responsibe:
-  * Led team to develop the market risk system with big data tech, as the big data platform served for centralized user queries.
+  * Led team to develop the market risk system with big data tech,
+  * as the big data platform served for centralized user queries.
 * Achievements:
-  * Enhanced data processing scalability by the big data tech,
-  * improved system fault tolerance & recovery capabilities,
+  * Enhanced data processing scalability by the big data tech, improved system fault tolerance & recovery capabilities,
   * and realized long-term system expansion for growing data volume and increasingly granular data.
 
 ### Markets risk data processing with java concurrent for physical server [Citi]
@@ -57,8 +59,7 @@
   * analyzed millions of logs, classified and isolated risk data, then processed them pipelines;
   * Utilized concurrency and Map/Reduce methods to improve processing speed.
 * Achievements:
-  * Increased processing data volume from millions to billions,
-  * and reduced user waiting time from hours to minutes.
+  * Increased processing data volume from millions to billions, and reduced user waiting time from hours to minutes.
 
 
 ### Markets risk data analyzer web platform [Citi]
@@ -68,9 +69,7 @@
   * provided refined risk data for user analysis;
   * Utilized concurrency, queues, and caching to improve system processing capacity.
 * Achievements:
-  * Support user ad-hoc queries,
-  * reduced user waiting time for query responses,
-  * and accelerated users daily review process.
+  * Support user ad-hoc queries, reduced user waiting time for query responses, and accelerated users daily review process.
 
 ### Order deployment system for OCI [Oracle]
 * Tech stack: java, redis, oracle, spring
@@ -85,9 +84,7 @@
 * Responsible:
   * Developed order deployment pipeline and web platfrom for users to submit, check for progress, and perform actions.
 * Achievements:
-  * Realized order automated deployment,
-  * provided user self-service interface,
-  * and accelerated speed of dev and testing.
+  * Realized order automated deployment, provided user self-service interface, and accelerated speed of dev and testing.
 
 ### Carbon saas web platform [C3]
 * Tech stack: java, redis, oracle, html, js, spring
