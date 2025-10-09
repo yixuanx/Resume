@@ -85,7 +85,7 @@
   * and web platfrom
   * for users to submit, check for progress, and perform actions.
 * Achievements:
-  * Realized order automated deployment, provided user self-service interface, and accelerated speed of dev and testing.
+  * Realized order automated deployment, provided user self-service interface, and accelerated speed of dev and deployment.
 
 ### Carbon saas web platform [C3]
 * Tech stack: java, redis, oracle, html, js, spring
