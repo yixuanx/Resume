@@ -31,8 +31,8 @@
 
 * Tech stack: nodejs, onnx, pytorch, redis, postgresql, svelte, electron
 * Description:
- * Markets risk analyzer with prection for LSTM, VAR, ES,
- * provide predictions for users daily review on investments.
+  * Markets risk analyzer with prection for LSTM, VAR, ES,
+  * provide predictions for users daily review on investments.
 
 ### eCommerce web platform (with Recommending) [Github open source]
 <img alt="image" src="https://github.com/user-attachments/assets/0c803cd1-3d5c-40fe-b2d6-69625de64e2d" />
