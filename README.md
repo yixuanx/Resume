@@ -26,7 +26,7 @@
 
 # Projects:
 
-### Markets risk analyzer platform (with LSTM) [GitHub open source]
+### Markets risk analyzer platform [GitHub open source]
 <img alt="image" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
 
 * Tech stack: Nodejs, ONNX, PyTorch, Redis, PostgreSQL, Svelte, Electron
@@ -34,7 +34,7 @@
   * Markets risk analyzer with LSTM, VAR, ES,
   * Provide predictions for user daily review on investments.
 
-### eCommerce web platform (with Recommending) [GitHub open source]
+### eCommerce web platform [GitHub open source]
 <img alt="image" src="https://github.com/user-attachments/assets/0c803cd1-3d5c-40fe-b2d6-69625de64e2d" />
 
 * Tech stack: Nodejs, ONNX, PyTorch, Redis, PostgreSQL, Svelte, Electron
@@ -51,7 +51,7 @@
 * Achievements:
   * Enhanced data processing scalability with the big data tech, improved system fault tolerance & recovery capabilities.
 
-### Markets risk data processing with java concurrent for physical server [Citi]
+### Markets risk data processing with java concurrent [Citi]
 * Tech stack: Java, Redis, Oracle, Spring
 * Responsible:
   * Conducted in-depth analysis of market risk data, processes and rules;
@@ -70,7 +70,7 @@
 * Achievements:
   * Support user ad-hoc queries, reduced user waiting time for query responses, and accelerated users daily review process.
 
-### Order deployment system for OCI [Oracle]
+### Order deployment system [Oracle]
 * Tech stack: Java, Redis, Oracle, Spring
 * Responsible:
   * Develop and integrate order deployment system.
@@ -78,7 +78,7 @@
   * Then it was sent to order deployment API to deploy on server environment based on preset images.
   * Order is tracked with ID for checking, retry or cancellation.
 
-### Order management web platform for OCI [Oracle]
+### Order management web platform [Oracle]
 * Tech stack: Java, Redis, Oracle, HTML, JS, Spring
 * Responsible:
   * Developed order deployment pipeline
@@ -102,6 +102,4 @@
   * Provided APIs for UI integration as well.
 
 
-GitHub.io Page: https://yixuanx.github.io/Resume/
-
-END
+**GitHub.io Page: https://yixuanx.github.io/Resume/**
