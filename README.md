@@ -40,7 +40,7 @@
 * Responsibe: Led team to develop the market risk system with big data tech, as the big data platform served for centralized user queries.
 * Achievements: Enhanced data processing scalability by the big data tech, improved system fault tolerance & recovery capabilities, and realized long-term system expansion for growing data volume and increasingly granular data.
 
-### Markets risk data processing with java concurrent for physical [Citi]
+### Markets risk data processing with java concurrent for physical server [Citi]
 * Tech stack: java, redis, oracle, spring
 * Responsibe: Conducted in-depth analysis of market risk data, processes and rules; analyzed millions of logs, classified and isolated risk data, then processed them pipelines; Utilized concurrency and Map/Reduce methods to improve processing speed.
 * Achievements: Increased processing data volume from millions to billions, and reduced user waiting time from hours to minutes.
