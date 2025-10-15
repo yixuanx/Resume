@@ -102,4 +102,4 @@
   * Provided APIs for UI integration as well.
 
 
-Resume Page: https://yixuanx.github.io/Resume/
+*Resume Page: https://yixuanx.github.io/Resume/
