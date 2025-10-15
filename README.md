@@ -1,4 +1,4 @@
-## Executive Summary:
+<img width="136" height="20" alt="image" src="https://github.com/user-attachments/assets/7e87b8ba-bb14-4fcf-a395-8be1b277e059" />## Executive Summary:
 * Name: XU Yixuan
 * Tel: +86 181 0189 3525
 * Email: yixuanxu_0_0@outlook.com
@@ -39,7 +39,7 @@
 
 * Tech stack: Nodejs, ONNX, PyTorch, Redis, PostgreSQL, Svelte, Electron
 * Description:
-  * eCommerce web platform MVP with typical recommending,
+  * eCommerce web platform MVP with typical recommending function,
   * And ordering placement modules.
 
 
@@ -55,7 +55,7 @@
 * Tech stack: Java, Redis, Oracle, Spring
 * Responsible:
   * Conducted in-depth analysis of market risk data, processes and rules;
-  * Analyzed millions of logs, classified and isolated risk data, then processed them pipelines;
+  * Analyzed millions of logs, classified and isolated risk data, then processed them with pipelines;
   * Utilized concurrency to improve processing speed.
 * Achievements:
   * Increased processing data volume from millions to billions, and reduced user waiting time from hours to minutes.
@@ -81,8 +81,8 @@
 ### Order management web platform [Oracle]
 * Tech stack: Java, Redis, Oracle, HTML, JS, Spring
 * Responsible:
-  * Developed order deployment pipeline
-  * And web platform
+  * Developed order deployment pipeline,
+  * And web platform,
   * For users to submit, check for progress, and perform actions.
 * Achievements:
   * Realized order automated deployment, provided user self-service interface, and accelerated speed of dev and deployment.
