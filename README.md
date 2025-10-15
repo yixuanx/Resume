@@ -1,4 +1,4 @@
-<img width="136" height="20" alt="image" src="https://github.com/user-attachments/assets/7e87b8ba-bb14-4fcf-a395-8be1b277e059" />## Executive Summary:
+## Executive Summary:
 * Name: XU Yixuan
 * Tel: +86 181 0189 3525
 * Email: yixuanxu_0_0@outlook.com
