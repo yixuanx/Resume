@@ -20,7 +20,6 @@
 
 # Educations:
 * 2004/09 ~ 2007/04: Shanghai Jiao Tong University, Master of Science in Computer Science
-* 2000/09 ~ 2004/07: Nanjing University of Posts and Telecommunications, Bachelor of Science in Electronic Information Science
 * 2018    ~ 2019   : Coursera, Deep Learning Certificate
 
 
