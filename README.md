@@ -18,12 +18,6 @@
 * 2010/06 ~ 2012/04: C3, Senior software engineer, Work for carbon SaaS systems dev, as the company is a carbon mitigation SaaS service provider for customers.
 * 2007/04 ~ 2010/05: Hitachi, Software engineer, Work for ITSM system dev
 
-# Educations:
-* 2004/09 ~ 2007/04: Shanghai Jiao Tong University, Master of Science in Computer Science
-* 2000/09 ~ 2004/07: Nanjing University of Posts and Telecommunications, Bachelor of Science in Electronic Information Science
-* 2018    ~ 2019   : Coursera, Deep Learning Certificate
-
-
 # Projects:
 
 ### Markets risk analyzer platform [GitHub open source]
@@ -100,6 +94,12 @@
   * Development for BI system ETL,
   * Performing generation, calculation, transformation, and aggregation for BI cube;
   * Provided APIs for UI integration as well.
+
+
+# Educations:
+* 2004/09 ~ 2007/04: Shanghai Jiao Tong University, Master of Science in Computer Science
+* 2000/09 ~ 2004/07: Nanjing University of Posts and Telecommunications, Bachelor of Science in Electronic Information Science
+* 2018    ~ 2019   : Coursera, Deep Learning Certificate
 
 
 *Resume Page: https://yixuanx.github.io/Resume/
